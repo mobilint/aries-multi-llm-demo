@@ -1,0 +1,104 @@
+{
+  "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct": [
+    "If energy were limitless, what inventions would instantly become possible?",
+    "좋은 기술이란 어떤 특징을 가질까?",
+    "하루아침에 세상에서 인터넷이 사라진다면 어떻게 돼?",
+    "What would AI dream about if it could experience imagination?",
+    "Can AI ever understand beauty?"
+  ],
+  "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct": [
+    "If energy were limitless, what inventions would instantly become possible?",
+    "좋은 기술이란 어떤 특징을 가질까?",
+    "하루아침에 세상에서 인터넷이 사라진다면 어떻게 돼?",
+    "What would AI dream about if it could experience imagination?",
+    "Can AI ever understand beauty?"
+  ],
+  "LGAI-EXAONE/EXAONE-4.0-1.2B": [
+    "How would society change if storage and computation were free?",
+    "좋은 기술이란 어떤 특징을 가질까?",
+    "하루아침에 세상에서 인터넷이 사라진다면 어떻게 돼?",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "LGAI-EXAONE/EXAONE-Deep-2.4B": [
+    "Explain the concept of machine learning in the style of Shakespeare.",
+    "기술의 황금기가 언제라고 생각해?",
+    "AI가 가장 인간 같은 때는 언제야?"
+  ],
+  "LGAI-EXAONE/EXAONE-Deep-7.8B": [
+    "Explain the concept of machine learning in the style of Shakespeare.",
+    "기술의 황금기가 언제라고 생각해?",
+    "AI가 가장 인간 같은 때는 언제야?"
+  ],
+  "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B": [
+    "What is the most useless superpower?"
+  ],
+  "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B": [
+    "What is the most useless superpower?"
+  ],
+  "meta-llama/Llama-3.2-1B-Instruct": [
+    "How do black holes challenge our understanding of space and time?",
+    "How does DNA determine both our similarities and differences?",
+    "What would happen to ecosystems if bees disappeared?",
+    "Why do some animals live in groups while others prefer to be alone?"
+  ],
+  "meta-llama/Llama-3.2-3B-Instruct": [
+    "Give me the best one-liner joke in the world",
+    "How does the brain change when someone falls in love?",
+    "How did herbivorous dinosaurs defend themselves against predators?",
+    "Why does comfort food affect emotions?"
+  ],
+  "meta-llama/Llama-3.1-8B-Instruct": [
+    "What are the advantages and disadvantages of using AI in education?",
+    "In what ways can technology help solve environmental problems?",
+    "Can machines be creative, or is creativity only a human trait?",
+    "What might happen if humans successfully colonize another planet?"
+  ],
+  "Qwen/Qwen2.5-0.5B-Instruct": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ],
+  "Qwen/Qwen2.5-1.5B-Instruct": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ],
+  "Qwen/Qwen2.5-3B-Instruct": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ],
+  "Qwen/Qwen2.5-7B-Instruct": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ],
+  "Qwen/Qwen3-0.6B": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ],
+  "Qwen/Qwen3-1.7B": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ],
+  "Qwen/Qwen3-4B": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ],
+  "Qwen/Qwen3-8B": [
+    "What happens to the brain during intense physical training?",
+    "为什么有的人喜欢健身，而有的人却很难坚持？",
+    "Describe the concept of time to an alien who doesn't experience time.",
+    "向一个没有时间概念的外星人描述时间的概念。"
+  ]
+}

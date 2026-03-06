@@ -1,0 +1,110 @@
+{
+  "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct": [
+    "良い技術とはどのような特徴を持つべきだと思いますか？",
+    "If energy were limitless, what inventions would instantly become possible?",
+    "もし一晩でインターネットが消えたら、社会はどう変わるでしょうか？",
+    "Can AI ever understand beauty?"
+  ],
+  "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct": [
+    "良い技術とはどのような特徴を持つべきだと思いますか？",
+    "If energy were limitless, what inventions would instantly become possible?",
+    "もし一晩でインターネットが消えたら、社会はどう変わるでしょうか？",
+    "Can AI ever understand beauty?"
+  ],
+  "LGAI-EXAONE/EXAONE-4.0-1.2B": [
+    "良い技術とはどのような特徴を持つべきだと思いますか？",
+    "How would society change if storage and computation were free?",
+    "時間という概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "LGAI-EXAONE/EXAONE-Deep-2.4B": [
+    "技術の黄金期はいつだと思いますか？",
+    "Explain the concept of machine learning in the style of Shakespeare.",
+    "AIが最も人間らしく見えるのはどんな瞬間だと思いますか？",
+    "When do you think AI appears most human-like?"
+  ],
+  "LGAI-EXAONE/EXAONE-Deep-7.8B": [
+    "技術の黄金期はいつだと思いますか？",
+    "Explain the concept of machine learning in the style of Shakespeare.",
+    "AIが最も人間らしく見えるのはどんな瞬間だと思いますか？",
+    "When do you think AI appears most human-like?"
+  ],
+  "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B": [
+    "最も役に立たない超能力は何だと思いますか？",
+    "What is the most useless superpower?",
+    "人はなぜ無意味な能力に面白さを感じるのでしょうか？",
+    "Why do people enjoy silly or pointless abilities in fiction?"
+  ],
+  "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B": [
+    "最も役に立たない超能力は何だと思いますか？",
+    "What is the most useless superpower?",
+    "人はなぜ無意味な能力に面白さを感じるのでしょうか？",
+    "Why do people enjoy silly or pointless abilities in fiction?"
+  ],
+  "meta-llama/Llama-3.2-1B-Instruct": [
+    "ブラックホールは空間と時間の理解にどんな影響を与えますか？",
+    "How do black holes challenge our understanding of space and time?",
+    "もしミツバチがいなくなったら、生態系はどうなりますか？",
+    "What would happen to ecosystems if bees disappeared?"
+  ],
+  "meta-llama/Llama-3.2-3B-Instruct": [
+    "人が恋に落ちると脳はどのように変化しますか？",
+    "How does the brain change when someone falls in love?",
+    "コンフォートフードはなぜ感情に影響を与えるのでしょうか？",
+    "Why does comfort food affect emotions?"
+  ],
+  "meta-llama/Llama-3.1-8B-Instruct": [
+    "教育にAIを使うこと의利点と欠点は何ですか？",
+    "What are the advantages and disadvantages of using AI in education?",
+    "創造性は人間だけのものですか、それとも機械にも可能ですか？",
+    "Can machines be creative, or is creativity only a human trait?"
+  ],
+  "Qwen/Qwen2.5-0.5B-Instruct": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "Qwen/Qwen2.5-1.5B-Instruct": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "Qwen/Qwen2.5-3B-Instruct": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "Qwen/Qwen2.5-7B-Instruct": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "Qwen/Qwen3-0.6B": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "Qwen/Qwen3-1.7B": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "Qwen/Qwen3-4B": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ],
+  "Qwen/Qwen3-8B": [
+    "激しい身体トレーニング中、脳では何が起きていますか？",
+    "What happens to the brain during intense physical training?",
+    "時間の概念を持たない宇宙人に、時間をどう説明しますか？",
+    "Describe the concept of time to an alien who doesn't experience time."
+  ]
+}

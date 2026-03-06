@@ -1,0 +1,118 @@
+{
+  "model_id": "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct",
+  "system_prompt_path": "src/prompts/kr-system.txt",
+  "inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/EXAONE-3.5-2.4B-Instruct"
+}
+
+{
+  "model_id": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct",
+  "system_prompt_path": "src/prompts/kr-system.txt",
+  "inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/EXAONE-3.5-7.8B-Instruct"
+}
+
+{
+  "model_id": "LGAI-EXAONE/EXAONE-4.0-1.2B",
+  "system_prompt_path": "src/prompts/kr-system.txt",
+  "inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/EXAONE-4.0-1.2B"
+}
+
+{
+  "model_id": "LGAI-EXAONE/EXAONE-Deep-2.4B",
+  "system_prompt_path": "src/prompts/kr-system.txt",
+  "inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/EXAONE-Deep-2.4B"
+}
+
+{
+  "model_id": "LGAI-EXAONE/EXAONE-Deep-7.8B",
+  "system_prompt_path": "src/prompts/kr-system.txt",
+  "inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/EXAONE-Deep-7.8B"
+}
+
+{
+  "model_id": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+  "system_prompt_path": "src/prompts/kr-system.txt",
+  "inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/HyperCLOVAX-SEED-Text-Instruct-1.5B"
+}
+
+{
+  "model_id": "meta-llama/Llama-3.2-1B-Instruct",
+  "system_prompt_path": "src/prompts/en-system.txt",
+  "inter_prompt_path": "src/prompts/en-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Llama-3.2-1B-Instruct"
+}
+
+{
+  "model_id": "meta-llama/Llama-3.2-3B-Instruct",
+  "system_prompt_path": "src/prompts/en-system.txt",
+  "inter_prompt_path": "src/prompts/en-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Llama-3.2-3B-Instruct"
+}
+
+{
+  "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+  "system_prompt_path": "src/prompts/en-system.txt",
+  "inter_prompt_path": "src/prompts/en-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Llama-3.1-8B-Instruct"
+}
+
+{
+  "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen2.5-0.5B-Instruct"
+}
+
+{
+  "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen2.5-1.5B-Instruct"
+}
+
+{
+  "model_id": "Qwen/Qwen2.5-3B-Instruct",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen2.5-3B-Instruct"
+}
+
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen2.5-7B-Instruct"
+}
+
+{
+  "model_id": "Qwen/Qwen3-0.6B",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen3-0.6B"
+}
+
+{
+  "model_id": "Qwen/Qwen3-1.7B",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen3-1.7B"
+}
+
+{
+  "model_id": "Qwen/Qwen3-4B",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen3-4B"
+}
+
+{
+  "model_id": "Qwen/Qwen3-8B",
+  "system_prompt_path": "src/prompts/ch-system.txt",
+  "inter_prompt_path": "src/prompts/ch-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/Qwen3-8B"
+}
