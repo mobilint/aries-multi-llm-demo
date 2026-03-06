@@ -73,6 +73,19 @@ docker compose -f docker-compose.yml -f docker-compose.gpu.yml up
 
 `docker-compose.gpu.yml` sets `gpus: all` so GPU containers are exposed to compose runtime.
 
+### GPU torch backend note
+
+`backend/backend-gpu.Dockerfile` installs PyTorch with `uv --torch-backend`.
+
+- Default is `cu124` (`ARG TORCH_BACKEND=cu124`) so most users do not need to know their CUDA version.
+- If needed, you can override at build time:
+
+```shell
+docker compose -f docker-compose.yml -f docker-compose.gpu.yml build --build-arg TORCH_BACKEND=cu121
+```
+
+- `auto` is not recommended for Docker GPU image builds because build-time environment detection may select CPU wheels.
+
 ### Runtime mode note
 
 This demo is designed for hardware-accelerated inference only (NPU or GPU). CPU-only execution is not supported.
