@@ -1,5 +1,15 @@
 [
 	{
+		"model_id": "LGAI-EXAONE/EXAONE-4.0-1.2B",
+		"system_prompt_path": "src/prompts/kr-system.txt",
+		"inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+		"generation_config_path": "src/generation_configs/EXAONE-4.0-1.2B",
+		"dev_no": 0,
+		"target_cores": [
+			"1:1"
+		]
+	},
+	{
 		"model_id": "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct",
 		"system_prompt_path": "src/prompts/kr-system.txt",
 		"inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
@@ -17,16 +27,6 @@
 		"dev_no": 0,
 		"target_cores": [
 			"0:2"
-		]
-	},
-	{
-		"model_id": "LGAI-EXAONE/EXAONE-4.0-1.2B",
-		"system_prompt_path": "src/prompts/kr-system.txt",
-		"inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
-		"generation_config_path": "src/generation_configs/EXAONE-4.0-1.2B",
-		"dev_no": 0,
-		"target_cores": [
-			"1:1"
 		]
 	},
 	{

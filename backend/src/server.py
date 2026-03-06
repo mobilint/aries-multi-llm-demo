@@ -26,7 +26,7 @@ except:
     is_mla_400 = False
 
 if is_mla_400 == False:
-    models = models[:4]
+    models = models[::4]
 
 model_ids = [model["model_id"] for model in models]
 assert len(model_ids) == len(set(model_ids)), "Model IDs are not unique!"
