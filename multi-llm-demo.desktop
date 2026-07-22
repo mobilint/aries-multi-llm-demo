@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type = Application
+Name = Multi LLM
+Icon = multi-llm-demo.png
+Exec = /usr/bin/env bash -lc 'cd "$HOME/aries-multi-llm-demo" && ./run.sh'
+Terminal = true

@@ -1,0 +1,17 @@
+{
+  "sidebarTitle": "チャットするモデルを選択してください",
+  "greetingTitle": "オフライン環境でそのまま会話を始めましょう",
+  "greetingDescription": [
+    "ARIESはエッジ環境で生成AIモデルを実行できます。",
+    "質問を入力すると、インターネット接続なしで会話できます。"
+  ],
+  "inputPlaceholder": "質問を入力してください",
+  "languageLabel": "言語",
+  "autoLabel": "自動",
+  "loadingPreparingModels": "オフラインモデルを準備しています",
+  "loadingSwitchingModel": "モデルを切り替えています",
+  "loadingModelDescription": "{model} を読み込んでいます。まもなくチャットを利用できます。",
+  "statusConnecting": "バックエンドに接続しています...",
+  "statusLoadingModels": "モデルをバックグラウンドで読み込んでいます。完了するとチャットが自動的に利用可能になります。",
+  "statusPreparingPromptBundle": "プロンプトバンドルを準備しています..."
+}

@@ -1,0 +1,17 @@
+{
+  "sidebarTitle": "Select a model to chat!",
+  "greetingTitle": "Start a conversation entirely offline",
+  "greetingDescription": [
+    "ARIES can run generative AI models in an edge environment.",
+    "Type a question and chat fully offline."
+  ],
+  "inputPlaceholder": "Type your question",
+  "languageLabel": "Language",
+  "autoLabel": "Auto",
+  "loadingPreparingModels": "Preparing offline models",
+  "loadingSwitchingModel": "Switching model",
+  "loadingModelDescription": "Loading {model} now. Chat will be available in a moment.",
+  "statusConnecting": "Connecting to backend...",
+  "statusLoadingModels": "Models are loading in the background. Chat will open automatically when loading finishes.",
+  "statusPreparingPromptBundle": "Preparing prompt bundle..."
+}
