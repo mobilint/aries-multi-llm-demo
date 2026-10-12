@@ -1,0 +1,17 @@
+{
+  "sidebarTitle": "请选择要聊天的模型",
+  "greetingTitle": "在离线环境中直接开始对话",
+  "greetingDescription": [
+    "ARIES 可以在边缘环境中运行生成式 AI 模型。",
+    "输入问题后，无需联网也可以进行对话。"
+  ],
+  "inputPlaceholder": "请输入你的问题",
+  "languageLabel": "语言",
+  "autoLabel": "自动",
+  "loadingPreparingModels": "正在准备离线模型",
+  "loadingSwitchingModel": "正在切换模型",
+  "loadingModelDescription": "正在加载 {model}，聊天很快就可以使用。",
+  "statusConnecting": "正在连接后端...",
+  "statusLoadingModels": "模型正在后台加载，完成后聊天会自动开启。",
+  "statusPreparingPromptBundle": "正在准备提示词包..."
+}
